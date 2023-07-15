@@ -17,5 +17,5 @@ print(list1)
 tuple1 = (("parrot", "sparrow"), ("Lion", "Tiger"))
 print(tuple1)
 
-dict1 = {"name":"Sakshi", "age":20, "canVote":True}
+dict1 = {"name":"Mahfujar", "age":21, "canVote":True}
 print(dict1)
