@@ -1,4 +1,4 @@
-# Do..while Loop 
+#while Loop 
 
 i=0
 while True:
