@@ -1,5 +1,5 @@
  <h1>
- My Python learning progress <img style="vertical-align:middle;" alt="logo" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/python.svg" height="25px">
+ My Python learning progress <img style="vertical-align:middle;" alt="logo" src="https://www.flaticon.com/free-icons/python" height="25px">
  </h1>
  
 ![Progress](https://progress-bar.dev/21/?width=500&title=Learned:)
