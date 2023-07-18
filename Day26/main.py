@@ -2,14 +2,14 @@
 import time
 
 t =int(time.strftime("%H"))
-# t = int(input("Type a number: "))
+n =input("Type your name: ")
 print(t)
 
 if (t >= 0 and t < 12):
-    print("Good Morning")
+    print("Good Morning,", n)
 
 elif (t >= 12 and t < 18):
-    print("Good Afternoon")
+    print("Good Afternoon,", n)
 
 elif (t >= 18 ):
-    print("Good Night")
+    print("Good Night,", n)
