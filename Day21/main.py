@@ -33,5 +33,5 @@ def number(*number):
         sum = sum + i
     return sum / len(number)
 
-c=number(1,2,3,4,5)
+c = number(1,2,3,4,5)
 print("The average of these", len(number), "numbers are: ", c) #why This one gives an error???🤔
