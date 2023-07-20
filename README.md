@@ -3,4 +3,4 @@
  My <img style="vertical-align:middle;" alt="logo" src="https://www.svgrepo.com/show/452091/python.svg" height="25px"> learning progress </b>
  </h1>
  
-![Progress](https://progress-bar.dev/28/?width=500)
+![Progress](https://progress-bar.dev/29/?width=500)
