@@ -16,3 +16,7 @@ print(b)
 from math import sqrt as r  #Imports sqrt as r
 s = r(81)
 print(s)
+
+from mahfujar import welcome, h
+print(h)
+welcome()
