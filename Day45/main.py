@@ -1,0 +1,3 @@
+import mahfujar
+
+mahfujar.welcome()
