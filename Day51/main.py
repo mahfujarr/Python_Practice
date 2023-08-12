@@ -1,3 +1,0 @@
-#Seek & tell Functions
-
-
