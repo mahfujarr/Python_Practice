@@ -11,7 +11,7 @@ class person:
 
 a = person()
 b = person()
-b.name = "Joy"
-b.age = 22
+b.name = "Mahrufur"
+b.age = 16
 a.info()
 b.info()
