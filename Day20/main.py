@@ -12,7 +12,7 @@ def isGreater(a,b):             #defining the 2nd function
     else:
         print("Second number is greater or equal")
 
-def isLesser(a,b)
+def isLesser(a,b):
     pass                        #skip indentation
 
 
