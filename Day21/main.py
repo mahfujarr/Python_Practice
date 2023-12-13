@@ -1,12 +1,12 @@
 #function arguments
 
-def averageof2(a = 1, b = 2):
+def averageof2(a,b):
     print("the average is: ", (a+b)/2)
     
 def name(fname, mname, lname):
     print("Hello,", fname, mname, lname)
 
-averageof2()
+averageof2(1,2)
 
 name("Mahfujar", "Rahman", "Joy")
 
@@ -34,4 +34,5 @@ def number(*number):
     return sum / len(number)
 
 c = number(1,2,3,4,5)
-print("The average of these", len(number), "numbers are: ", c) #why This one gives an error???🤔
+n = (1,2,3,4,5)
+print("The average of these", len(n), "numbers are: ", c) #why This one gives an error???🤔
