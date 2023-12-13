@@ -1,7 +1,7 @@
 #string slicing
 
 
-fruit = "Mango"
+fruit = "Banana"
 mangoLen = len(fruit)
 print(mangoLen)
 print(fruit[0:4]) # including 0 but not 4
