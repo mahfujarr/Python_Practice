@@ -9,5 +9,5 @@
 #     print(i.upper(), end=", ")
 
 
-for i in range (2,20,2):
+for i in range(2,20,3): #starts from 2; runs till 20; increment in each loop is 3
     print(i)
