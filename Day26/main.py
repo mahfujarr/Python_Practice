@@ -5,7 +5,7 @@ t =int(time.strftime("%H"))
 # t=19
 n =input("Type your name: ")
 # n="Mahfujar"
-print(t)
+# print(t)
 
 if (t >= 18 ):
     print("Good Night,", n)
