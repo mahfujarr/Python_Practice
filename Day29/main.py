@@ -7,6 +7,3 @@ returns the square of number n'''
 
 square(5)
 print(square.__doc__)                               #prints the docString
-
-
-    
