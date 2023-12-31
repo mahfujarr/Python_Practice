@@ -7,7 +7,7 @@ print(ans1)                  #prints the ans1
 ans2 = tup1.index(4)       #prints the index of the first ocurrence of specified value
 print(ans2)
 
-ans3 = tup1.index(5, 5, 14)
+ans3 = tup1.index(5, 6, 14) #SLices the tuple from 6 to 14 and then prints the index of 5 in that sliced tuple
 print(ans3)
 
 ans4 = len(tup1)
