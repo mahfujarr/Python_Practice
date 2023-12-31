@@ -22,6 +22,7 @@ if 1 in s1:
     print("yes")
 else:
     print("No")
+
 #Obviously It'll print no because "s1.clear()" cleared 
-#all elements inside s1 so it's now empty
+# all elements inside s1 so it's now empty
 
