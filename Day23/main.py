@@ -1,6 +1,6 @@
 #List Methods
 
-l=[2,5,4,3,1,]
+l=[2,5,4,3,1]
 print(l)
 
 l.append(6) #adds 6 on the list
