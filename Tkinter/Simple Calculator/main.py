@@ -2,8 +2,8 @@ from tkinter import *
 
 root =Tk()
 root.title("Simple Calculator by @mahfujarr")
-img = PhotoImage(file='d:\Mahfujar.jpg')
-root.iconphoto(False, img)
+# img = PhotoImage(file='d:\Mahfujar.jpg')
+# root.iconphoto(False, img)
 
 entry = Entry(root, width=40, borderwidth=5)
 entry.grid(row=0, column=0, columnspan=3, padx=10, pady=10)
