@@ -11,5 +11,5 @@ print(name[4])
 print(name[5])
 # print(name[8]) # Throws an error
 print("\nusing a for loop\n")
-for character in string:
-    print(character)
+for i in string:
+    print(i)
