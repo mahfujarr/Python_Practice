@@ -46,7 +46,8 @@ class Form(tk.Tk):
         dob_frame = tk.Frame(self)
         self.label_dob = tk.Label(dob_frame, text='Date of Birth:')
         self.label_dob.pack(side=tk.LEFT, anchor='w')
-        self.dob = tkc.DateEntry(dob_frame)
+        self.dob = tkc.DateEntry(dob_frame, datepattern='dd-mm-yyyy')
+        self.dob.set_date('01-01-2000')
         self.dob.pack(side=tk.LEFT, anchor='w')
         dob_frame.pack()
 
